@@ -1,4 +1,4 @@
-# 
+# 终极 Quicken 扩展 Mac OS版 | 顶级 Quicken 扩展 PC Windows版。集成 库存管理 和 报销，跨平台性能最大化。
 
 
 
